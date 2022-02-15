@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/12 12:59 AM UTC
+			2022/2/13 12:59 AM UTC
 		</td>
 		<td>
 			4
@@ -35,25 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/ADISKING1/view-stats/raw/master/graph/384794626/small/year.png" height="20"> 7
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/ADISKING1/view-stats/tree/master/readme/300973530/year.md">
-				JTC
-			</a>
-		</td>
-		<td>
-			2022/2/12 12:59 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/ADISKING1/view-stats/raw/master/graph/300973530/small/year.png" height="20"> 1
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2022/2/14 6:18 PM UTC</i></small>
+<small><i>Last updated on 2022/2/15 1:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
